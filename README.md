@@ -1,6 +1,6 @@
 このプロジェクトは先行研究にGenRLを用いて行っている研究の改変コードの保存用です。
 LLMATCHプログラム世界モデルグループです
-
+dreamer_utils.pyを改変中です
 
 
 # GenRL: Multimodal-foundation world models for generalization in embodied agents
